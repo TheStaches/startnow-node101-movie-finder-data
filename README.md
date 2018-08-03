@@ -1,0 +1,1 @@
+Creates a cache server to hold repeated API call data.
